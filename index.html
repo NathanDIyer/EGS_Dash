@@ -444,17 +444,21 @@
           </div>
 
           <div class="control">
+            <label>CAPEX ($/kW)
+              <span class="value-pill" data-value="capex">13,500</span>
+            </label>
+            <input id="capex" type="range" min="4000" max="20000" step="500" value="13500" />
+            <div style="display: flex; justify-content: space-between; font-size: 10px; color: var(--muted);">
+              <span>Derived LCOE:</span>
+              <span id="derived-lcoe" style="font-weight: 600;">$0/MWh</span>
+            </div>
+          </div>
+
+          <div class="control">
             <label>Learning rate (%)
               <span class="value-pill" data-value="learning">15%</span>
             </label>
             <input id="learning" type="range" min="5" max="30" step="1" value="15" />
-          </div>
-
-          <div class="control">
-            <label>Starting cost ($/MWh)
-              <span class="value-pill" data-value="cost">120</span>
-            </label>
-            <input id="cost" type="range" min="60" max="200" step="5" value="120" />
           </div>
 
           <div class="control">
@@ -542,10 +546,10 @@
               </div>
 
               <div class="control">
-                <label>CAPEX ($/kW)
-                  <span class="value-pill" data-value="capex">6000</span>
+                <label>OPEX ($/MWh)
+                  <span class="value-pill" data-value="opex">20</span>
                 </label>
-                <input id="capex" type="range" min="3000" max="9000" step="250" value="6000" />
+                <input id="opex" type="range" min="5" max="50" step="1" value="20" />
               </div>
 
               <div class="control">
@@ -567,8 +571,9 @@
         <details class="info">
           <summary>Research notes</summary>
           <div class="info-body">
+            <strong>CAPEX:</strong> use current estimates from pilots, vendor quotes, and comparable projects (FOAK $10-15k/kW, NOAK $4-6k/kW).<br />
+            <strong>LCOE:</strong> derived from CAPEX, OPEX, capacity factor, lifetime, and discount rate using standard formula: LCOE = (CAPEX × CRF) / (8760 × CF) + OPEX.<br />
             <strong>Learning rate:</strong> derive from historical cost vs cumulative capacity curves for similar geothermal wells or adjacent drilling technologies.<br />
-            <strong>Starting cost:</strong> use current LCOE estimates from pilots, vendor quotes, and comparable projects (FOAK vs SOAK).<br />
             <strong>TAM:</strong> model addressable grid needs by region, firm capacity requirements, and siting/permitting constraints.<br />
             <strong>Premium to parity:</strong> discounted sum of green premium ($/MWh) over deployed MWh until parity (premium clipped at $0 thereafter).
           </div>
@@ -629,19 +634,33 @@
     const inputs = {
       maturity: document.getElementById('maturity'),
       learning: document.getElementById('learning'),
-      cost: document.getElementById('cost'),
       incumbent: document.getElementById('incumbent'),
       tam: document.getElementById('tam'),
       investment: document.getElementById('investment'),
       discount: document.getElementById('discount'),
       capacity: document.getElementById('capacity'),
       capex: document.getElementById('capex'),
+      opex: document.getElementById('opex'),
       lifetime: document.getElementById('lifetime'),
       grid_now: document.getElementById('grid_now'),
       grid_2050: document.getElementById('grid_2050'),
       grid_2060: document.getElementById('grid_2060'),
       grid_2070: document.getElementById('grid_2070')
     };
+
+    const derivedLcoeEl = document.getElementById('derived-lcoe');
+
+    // Calculate LCOE from CAPEX, OPEX, capacity factor, lifetime, and discount rate
+    // LCOE = (CAPEX × CRF) / (8760 × CF) + OPEX
+    // CRF = r(1+r)^n / ((1+r)^n - 1)
+    function calculateLCOE(capex, opex, capacityFactor, lifetime, discountRate) {
+      const r = discountRate;
+      const n = lifetime;
+      const crf = (r * Math.pow(1 + r, n)) / (Math.pow(1 + r, n) - 1);
+      const annualHours = 8760 * capacityFactor;
+      const capitalComponent = (capex * crf * 1000) / annualHours; // $/kW to $/MWh
+      return capitalComponent + opex;
+    }
 
     const valueLabels = document.querySelectorAll('[data-value]');
     const segments = document.querySelectorAll('[data-segment]');
@@ -738,18 +757,24 @@
     function buildModel() {
       const maturity = parseFloat(inputs.maturity.value);
       const learningRate = parseFloat(inputs.learning.value) / 100;
-      const cost0 = parseFloat(inputs.cost.value);
       const incumbent = parseFloat(inputs.incumbent.value);
       const tam = parseFloat(inputs.tam.value);
       const investment = parseFloat(inputs.investment.value);
       const discount = parseFloat(inputs.discount.value) / 100;
       const capacityFactor = parseFloat(inputs.capacity.value) / 100;
       const capex = parseFloat(inputs.capex.value);
+      const opex = parseFloat(inputs.opex.value);
       const lifetime = parseFloat(inputs.lifetime.value);
       const gridNow = parseFloat(inputs.grid_now.value);
       const grid2050 = parseFloat(inputs.grid_2050.value);
       const grid2060 = parseFloat(inputs.grid_2060.value);
       const grid2070 = parseFloat(inputs.grid_2070.value);
+
+      // Calculate LCOE from CAPEX, OPEX, capacity factor, lifetime, and discount rate
+      const cost0 = calculateLCOE(capex, opex, capacityFactor, lifetime, discount);
+
+      // Update the derived LCOE display
+      derivedLcoeEl.textContent = '$' + formatNumber(cost0, 0) + '/MWh';
 
       const maturityBlend = (maturity - 1) / 9;
       const tMidBase = lerp(2047, 2034, maturityBlend);
