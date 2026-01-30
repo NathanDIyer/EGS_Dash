@@ -244,10 +244,32 @@
       margin-bottom: 6px;
     }
 
-    .charts {
-      display: grid;
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-      gap: 12px;
+    .chart-toggle {
+      display: flex;
+      gap: 8px;
+      margin-left: auto;
+    }
+
+    .chart-toggle button {
+      background: #f1f3f4;
+      border: 1px solid #dadce0;
+      border-radius: 8px;
+      padding: 6px 12px;
+      font-size: 11px;
+      cursor: pointer;
+      color: #3c4043;
+      transition: all 0.15s ease;
+    }
+
+    .chart-toggle button.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+      font-weight: 600;
+    }
+
+    .chart-toggle button:hover:not(.active) {
+      background: #e8eaed;
     }
 
     .chart-title {
@@ -270,7 +292,12 @@
 
     canvas {
       width: 100%;
-      height: 360px;
+      height: 100%;
+    }
+
+    .chart-container {
+      flex: 1;
+      min-height: 0;
     }
 
     .context {
@@ -548,7 +575,7 @@
         </details>
       </section>
 
-      <section>
+      <section style="display: flex; flex-direction: column; min-height: 0;">
         <div class="metrics">
           <div class="metric">
             <div class="label">Catalyzed $/tCO2</div>
@@ -572,21 +599,19 @@
           </div>
         </div>
 
-        <div class="charts">
-          <div class="chart-card">
-            <div class="chart-title">
-              <h3>Adoption acceleration</h3>
-              <span>Baseline vs catalyzed capacity</span>
+        <div class="chart-card" style="flex: 1; display: flex; flex-direction: column; min-height: 0;">
+          <div class="chart-title">
+            <div>
+              <h3 id="chart-title-text">Adoption acceleration</h3>
+              <span id="chart-subtitle-text">Baseline vs catalyzed capacity</span>
             </div>
-            <canvas id="adoptionChart"></canvas>
+            <div class="chart-toggle" data-segment="chartView">
+              <button data-value="adoption" class="active">Adoption</button>
+              <button data-value="emissions">Emissions</button>
+            </div>
           </div>
-
-          <div class="chart-card">
-            <div class="chart-title">
-              <h3>Discounted emissions reductions</h3>
-              <span>Cumulative MtCO2 avoided</span>
-            </div>
-            <canvas id="emissionsChart"></canvas>
+          <div class="chart-container">
+            <canvas id="mainChart"></canvas>
           </div>
         </div>
 
@@ -620,8 +645,9 @@
 
     const valueLabels = document.querySelectorAll('[data-value]');
     const segments = document.querySelectorAll('[data-segment]');
-    const adoptionCanvas = document.getElementById('adoptionChart');
-    const emissionsCanvas = document.getElementById('emissionsChart');
+    const mainCanvas = document.getElementById('mainChart');
+    const chartTitleText = document.getElementById('chart-title-text');
+    const chartSubtitleText = document.getElementById('chart-subtitle-text');
 
     const metricCater = document.getElementById('metric-cater');
     const metricCaterSub = document.getElementById('metric-cater-sub');
@@ -634,7 +660,8 @@
 
     const state = {
       type: 'grant',
-      stage: 'p1'
+      stage: 'p1',
+      chartView: 'adoption'
     };
 
     // ECTF grant equivalence: measures concessionality of each capital type
@@ -983,44 +1010,50 @@
       metricParitySub.textContent = 'Catalyzed ' + formatMoney(model.premiumBridgeCat) +
         ' | delta ' + deltaText + ' | ' + parityText;
 
-      drawLineChart(adoptionCanvas, [
-        {label: 'Baseline', color: '#4285f4', data: model.baseline},
-        {label: 'Catalyzed', color: '#0f9d58', data: model.catalyzed}
-      ], {
-        yDecimals: 0,
-        yLabel: 'GW',
-        rangeMode: 'data',
-        legend: [
-          {label: 'Baseline', color: '#4285f4'},
-          {label: 'Catalyzed', color: '#0f9d58'}
-        ],
-        area: {
-          base: model.baseline,
-          top: model.catalyzed,
-          color: 'rgba(15, 157, 88, 0.24)'
-        }
-      });
-
-      const baseMt = model.baselineCumulative.map(point => ({x: point.x, y: point.y / 1e6}));
-      const catMt = model.catalyzedCumulative.map(point => ({x: point.x, y: point.y / 1e6}));
-
-      drawLineChart(emissionsCanvas, [
-        {label: 'Baseline', color: '#4285f4', data: baseMt},
-        {label: 'Catalyzed', color: '#db4437', data: catMt}
-      ], {
-        yDecimals: 0,
-        yLabel: 'MtCO2',
-        rangeMode: 'data',
-        legend: [
-          {label: 'Baseline', color: '#4285f4'},
-          {label: 'Catalyzed', color: '#db4437'}
-        ],
-        area: {
-          base: baseMt,
-          top: catMt,
-          color: 'rgba(219, 68, 55, 0.16)'
-        }
-      });
+      // Draw chart based on current view
+      if (state.chartView === 'adoption') {
+        chartTitleText.textContent = 'Adoption acceleration';
+        chartSubtitleText.textContent = 'Baseline vs catalyzed capacity';
+        drawLineChart(mainCanvas, [
+          {label: 'Baseline', color: '#4285f4', data: model.baseline},
+          {label: 'Catalyzed', color: '#0f9d58', data: model.catalyzed}
+        ], {
+          yDecimals: 0,
+          yLabel: 'GW',
+          rangeMode: 'data',
+          legend: [
+            {label: 'Baseline', color: '#4285f4'},
+            {label: 'Catalyzed', color: '#0f9d58'}
+          ],
+          area: {
+            base: model.baseline,
+            top: model.catalyzed,
+            color: 'rgba(15, 157, 88, 0.24)'
+          }
+        });
+      } else {
+        chartTitleText.textContent = 'Discounted emissions reductions';
+        chartSubtitleText.textContent = 'Cumulative MtCO2 avoided';
+        const baseMt = model.baselineCumulative.map(point => ({x: point.x, y: point.y / 1e6}));
+        const catMt = model.catalyzedCumulative.map(point => ({x: point.x, y: point.y / 1e6}));
+        drawLineChart(mainCanvas, [
+          {label: 'Baseline', color: '#4285f4', data: baseMt},
+          {label: 'Catalyzed', color: '#db4437', data: catMt}
+        ], {
+          yDecimals: 0,
+          yLabel: 'MtCO2',
+          rangeMode: 'data',
+          legend: [
+            {label: 'Baseline', color: '#4285f4'},
+            {label: 'Catalyzed', color: '#db4437'}
+          ],
+          area: {
+            base: baseMt,
+            top: catMt,
+            color: 'rgba(219, 68, 55, 0.16)'
+          }
+        });
+      }
     }
 
     function setupSegments() {
