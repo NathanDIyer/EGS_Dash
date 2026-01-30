@@ -637,12 +637,16 @@
       stage: 'p1'
     };
 
+    // ECTF grant equivalence: measures concessionality of each capital type
+    // Grant = 100% concessional (no return expected)
+    // Other types expect returns, so grant-equivalent impact is lower
+    // Values from ECTF Methodology (Breakthrough Energy, April 2023)
     const typeLeverage = {
-      grant: 1.0,
-      equity: 1.4,
-      debt: 1.2,
-      offtake: 1.8,
-      guarantee: 1.5
+      grant: 1.0,       // 100% grant equivalent
+      equity: 0.22,     // ~22% grant equivalent (expects equity returns)
+      debt: 0.16,       // ~16% grant equivalent (expects debt repayment)
+      offtake: 0.45,    // ~45% grant equivalent (pays green premium)
+      guarantee: 0.30   // ~30% estimated (risk reduction, partial exposure)
     };
 
     const stageFactor = {
