@@ -1,0 +1,1175 @@
+
+
+--- Page 1 ---
+ 
+breakthroughenergy.org   Emerging Climate 
+Technology Framework  
+Methodology  for impact analytics 
+January 2023  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+
+--- Page 2 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   2 
+ Introduction  
+There is growing interest among policy makers, companies  and financial institutions in investing in 
+the emerging climate technologies (ECTs) that are critical for a net -zero future, in the hope of 
+reducing their cost and accelerating their deployment globally. Yet there is not currently a robust 
+analytical fram ework for assessing the potential climate impact of these investments  The Emerging 
+Climate Technology Framework (ECTF) fills this gap with the introduction of two forward- looking 
+metric : 1) reductions in cost  compared to the incumbent fossil technology , which we refer to as 
+Green Premium  Reduction  (GPR) ; and 2) potential future greenhouse gas emissions avoided which 
+we refer to as Catalyzed Emissions Reductions  (CatER s). This document outlines a methodology 
+for quantifying both. The ECTF was developed by Breakthrough Energy (BE) and Rhodium Group 
+as a tool for evaluating investments made through BE’s Catalyst program, but has utility for other 
+investors as well as policymakers interested in accelerating ECT deployment.  
+Impact Metric  Definition  
+Green Premium 
+Reduction (GPR)  Forward -looking decrease in price premium  at a specific point in 
+time of an Emerging Climate Technology ( ECT) over a fossil 
+incumbent (or target price, depending on the technology) b rought 
+on by  investments to catalyze  ECT deployment .1  
+Catalyzed Emissions 
+Reduction (CatER)  Potential  future emissions reduced due to catalytic investments 
+that accelerate additional global ECT deployment . 
+Table 1:  Impact Metric Definitions  
+Overview of the Emerging Climate Technology 
+Framework Model  
+WHY DO WE NEED SUC H A FRAMEWORK  
+Nearly 50% of emissions reductions needed to achieve global Net Zero by 2050 will be driven by emerging climate technologies (ECTs)
+2, but they often lack the funding to deploy at scale and 
+speed.  Policymakers, companies and financial institutions can accelerate deployment of ECT s by 
+providing catalytic capital and/or  executing offtake agreements at a premium, but to date these 
+entities have lacked an analytical framework for assessing the potential climate benefit of such 
+investments. Breakthrough Energy and Rhodium Group develop ed the Emerging Climate 
+Technology  Framework (ECTF) to fill this gap.  
+ 
+ 
+1 https://www.gatesnotes.com/Energy/Introducing- the-Green -Premiums   
+2 Estimates for emissions reductions needed from new technologies range from ~30% in IPCC’s P4 pathway 
+to nearly 50% in IEA’s Net Zero by 2050: A Roadmap f or the Global Energy Sector.    
+
+--- Page 3 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   3 
+ WHAT IS THE  ECTF MODEL?  
+Concept: The ECTF Model defines  and implements a technology -agnostic  methodology to 
+quantify the  expected impact of early -stage investments made in ECTs . This model relies on the 
+concept of “catal ytic capital ,” which is defined as : investment capital that is patient and accepts 
+disproportionate risk and/or concessional returns relative to a conventional investment to generate 
+positive impact and enable thi rd-party investment that otherwise would not be possible.3   
+The ECTF is anchored in the historical evidence of how early investment in solar technologies 
+accelerated cost reductions and scaled deployment worldwide.  Figure 1 illustrates how even earlier 
+investment in solar PV would have brought costs down significantly –  a $5 billion investment just 5 
+years earlier would have brough costs down by nearly half in just 5 years. Those cost declines lead to accelerated market adoption of solar, essentially shif ting the deployment curve for solar PV 
+forward by five years (Figure 2).  
+ 
+ Figure 1: Solar Example: If we had invested $5B in 1985, solar costs would have come down 
+sooner. As a result of these cost declines, solar would have been adopt ed more quickly into the 
+market.  
+ 
+ 
+3 https://www.macfound.org/programs/catalytic -capital -consortium/   
+  
+
+
+--- Page 4 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   4 
+  
+Figure 2 : Solar Example of how additional investment  accelerates  technology cost declines and 
+market adoption.  As a result of cost declines, solar would have been adopted more quickly into the 
+market.  
+Following the solar investment example, t o quantify the impacts of catalytic capital  in emerging 
+climate technologies , the ECTF model assesses two cases: a baseline case in which current 
+market and policy trends are assumed to continue, and a catalyzed case in which there is an 
+injection of catalytic capital of a specified size in the near term (within ~5 years of present). In both 
+cases, ECTs are expected to be adopted over time, but in the catalyzed case, adoption occurs 
+more quickly.  By comparing the difference between the baseline and catalyzed case, it is possible 
+to quantify the additional impact of the catalytic capital over the long term.  
+Types of capital:  The ECTF model accounts for multiple types of catalytic capital . By evaluating 
+the full catalytic capital sta ck, it is possible to attribute the modeled impact  metrics to specific 
+investments, thus giving recognition to specific investors providing catalytic capital for their 
+contributions.  
+Scenarios:  The ECTF model provides assessments of projected impact based on current market 
+conditions and assumptions ar ound the future. Because of the inherent uncertainty of these 
+assumptions, the ECTF model provides a range of scenarios accounting for energy market dynamics and  technology cost paths . The model will be updated annually to capture evolving policy 
+and market dynamics and account for updates related to the costs and learning rates for  specific 
+technology pathway s under consideration.  
+Technology Scope: The ECTF  model is designed to quantify the impact of  early -stage  
+investments into technologies currently meeting the conditions for levels 5 through 10 of the 
+Technology Readiness Level (TRL) scale defined by the IEA . Level 5 is a large prototype in which 
+
+
+--- Page 5 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   5 
+ components have been proven in the conditions in whi ch they will be deployed, while level 10 is 
+integration at scale in which the solution is commercially available but needs further integration 
+efforts into broader systems  to scale predictably.4 The ECTF model was initially  developed for four 
+emerging cli mate technologies – Sustainable Aviation Fuels  (SAF) , Direct Air Capture (DAC) , Clean  
+Hydrogen, and Long Duration Energy Storage (LDES)  – and will be updated in future iterations to 
+include additional technologies .  
+HOW DOES THE ECTF MODEL DIFFER FROM OTHER CLIMATE IMPACT MODELING?  
+ECTF shares both important commonalities and key differences with existing climate impact 
+modeling methods and tools.  The ECTF approach is unique in that it:  (a) is forward- looking  (as 
+opposed to present value or historical accounting ); (b) assesses  the impacts of catalytic 
+investments in ECTs ; (c) measures the climate -specific impact (as opposed to the financ ial impacts 
+of catalytic investments) ; and (d) measures  impact at a technology level ( but not at  a specific 
+company or project  level).  
+TREATMENT OF UNCERTAINTY IN THE ECTF MODEL  AND LIMITATIONS OF THE APPROACH  
+Accounting for the impacts  investments  have today , or may have in the future,  is an inherently 
+uncertain exercise. All estimates – whether backward or forward- looking - require modeling and 
+analysis based on assumptions about what would have happened absent the specific climate or 
+investment action.  
+In this respect, t he community of climate impact practitioners has a long-established practice of 
+dealing with uncertainty. The ECTF leverages many of the same approaches to uncertainty as 
+other climate impact metric models.  To address a range the uncertainties, the ECTF uses a 
+scenario- based approach to capture a range of potential future outcomes (the “Summary of 
+Assumptions” section of this document describes the scenario approach for the ECTF model).  
+Like other impact metrics, the ECTF model is sensitive to assumptions. There is not broad 
+consensus on specific inputs, such as the share of catalytic investment that can be translated into market learning. The values used for inputs are based on expert judgem ent and empirical data 
+where possible, but in many cases, are still uncertain. To deal with this limitation, the ECTF uses  
+a scenario- based approach to incorporate uncertainty in technology learning rates  and other key 
+parameters .  
+Finally, it is also dif ficult to estimate the likelihood of success for a specific ECT pathway. The ECTF 
+model assumes the technologies receiving catalytic investment will be successfully scaled at some 
+point in the future (given they have reached at least IEA TRL 5), but there is an inherent risk of 
+technology failure that is impossible to estimate, and thus not accounted for in the model.  
+ 
+ 
+4 https://www.iea.org/reports/clean -energy -innovation/innovation-needs -in-the-sustainable-develo pment -
+scenario   
+
+--- Page 6 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   6 
+ The E merging Climate Technology Framework Model 
+Implementation  
+HOW THE  ECTF MO DEL WAS DEVELOPED  
+The ECTF Model development was led by Breakthrough Energy, in partnership with the Rhodium 
+Group and the Carbon Disclosure Project. The original ECT Framework5, published in 2021, has 
+been further adapted and refined  based on  inputs from multiple rounds of broad stakeholder 
+engagement . These stakeholders  includ e leaders in corporate sustainability, opinion leaders, 
+academics and topic experts . Rhodium Group, in partnership with Breakthrough Energy, has 
+implemented a new baselining approach based on Rhodium’s Global Energy Model  (RHG -GEM) . 
+Additionally, some specific ECTF methods (such as the calculation of effective catalytic capital) 
+have been adj usted relative to the original BE / CDP methodology . The methodology that follows 
+accurately describes the implementation of the BE ECTF Model as of March 2023 . 
+MODEL OVERVIEW  
+The ECTF model  (“the model”  from here forward)  estimates the key impact metrics in t hree overall 
+steps , each building on the last. The first step is to construct  baseline deployment  curve s (i.e., 
+installed capacity as a function of time) for each ECT  under reasonably expected policy and market 
+conditi ons through the end of the century (“baseline  case ”). Second, the model estimates the 
+impact of catalytic investments on the ECT adoption curve, specifically estimating the acceleration 
+of adoption driven by the specific investment (“catalyzed case”). Thir d, leveraging the baseline and 
+catalyzed adoption cases, the model calculates the catalytic metrics to assess the green premium 
+reduction and catalyzed emissions reductions and allocates them to specific investments / 
+investors . A summary diagram of the basic model construction is below:  
+ 
+ 
+5 https://www.cdp.net/en/campaigns/emerging- climate -technology -initiative   
+
+--- Page 7 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   7 
+  
+Figure 3: Summary of ECTF Model Methodology  including steps, descriptions, and outputs . The 
+labeled steps tie to the following methodology sections.  
+TECHNOLOGY CHARACTERIZATION  
+The ECTF currently models the deployment of four emerging climate technologies: Sustainable 
+Aviation Fuel (SAF) , Direct Air Capture (DAC), Clean Hydrogen, and Long Duration Energy Storage 
+(LDES). Each technology competes in the marketplace based on a range of input assumptions 
+about the expected c ost and performance. Below we outline the technology pathways – specific  
+approaches  to ECTs that differ in key attributes such as costs, emission profiles, or incumbent 
+technologies -- that are currently in scope.  
+Technology  Pathway s Definition  
+Sustainable 
+Aviation Fuel  
+(SAF) Power to L iquid , 
+Alcohol to J et, 
+Biomass Gasification, 
+Hydrotreated 
+Esters and Fatty 
+Acids  SAFs are jet fuels derived from sustainable sources such as 
+biological feedstock and renewable energy. Currently, SAFs can 
+be used in any jet engine if they are blended (max 50%) with 
+kerosene (jet fuel A1). There are 2 types of SAF —biofuels made 
+from biologic al feedstocks (e.g., vegetable oils, agricultural 
+residue waste, municipal solid waste) and synthetic fuel made from artificial chemical synthesis using renewable electricity, 
+captured carbon, and water. There are seven approved pathways 
+to produce SAF today, th ree of which have higher relative maturity  
+and are in- scope: Hydrotreated esters and fatty acids (HEFA), 
+Biomass  Gasification (GFT), and Alcohol -to-Jet (ATJ) to produce 
+biofuels.  The nascent Power -to-Liquid (PtL) pathway used to 
+produce synfuels is a lso in scope.  
+Direct Air 
+Capture  
+(DAC)  Solid Sorbent  Direct air capture (DAC) is one of many negative emission 
+technologies (NETs) that captures CO2 from ambient air. There 
+are two leading DAC technologies available today, aqueous 
+
+
+--- Page 8 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   8 
+ solution  and solid sorbent, with OEMs seeking to build their first 
+large- scale plants.  The solid sorbent  pathway  is in-scope.  
+Clean  
+Hydrogen  Renewables -
+Based 
+Electrolysis , 
+Methane pyrolysis, 
+Biomass/municipal 
+waste gasification, Fossil fuel -based 
+with carbon 
+capture  Electrolytic hydrogen (H2) is produced via electrolysis of water to 
+create H2 and O2 using electricity . Three main pathways for 
+green H2: Alkaline Water Electrolyzer  (AWE), Proton Exchange 
+Membrane (PEM), and Solid Oxide Electrolyzer (SOE).  H2 can 
+also be produced via methane pyrolysis or biomass gasification. 
+The former creates hydrogen and solid carbon through the 
+thermal decomposition of methane or bio-methane. The later 
+converts biomass or municipal waste to hydrogen. When coupled 
+with carbon capture and storage, the net carbon emissions of biomass gasification can become negative.  Lastly, H2 from fossil 
+fuel equipped with carbon capture can yield a production 
+emissions intensity substantially lower than today’s uncontrolled 
+fossil production. Since significant uncertainty remains regarding 
+the future of H2 production, this pathway is in scope.  
+Long 
+Duration Energy 
+Storage  
+(LDES) Mechanical 
+(gravitational, compressed/liquid 
+air energy storage, 
+modular pumped 
+hydro)  
+Electrochemical 
+batteries (redox 
+flow batteries, 
+aqueous solution, 
+metal -air) 
+Thermal 
+(refractory, molten 
+salts)  
+Chemical ( clean 
+hydrogen 
+production, storage, and re-
+electrification)  Long duration energy storage (LDES) is key to addressing 
+intermittency of renewable energy generation due to its ability to store & discharge electricity for 10+ hours at a time. There is a 
+broad landscape of LDES technologies, which can be bucketed 
+into four major classific ations: mechanical, thermal, chemical, and 
+electro chemical. All pathways are similar in terms of market 
+adoption likelihood, so are modeled as a single combined 
+pathway.  
+Table 2: Summary of initial in- scope ECTs for BE ECTF Model  
+ 
+
+--- Page 9 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   9 
+ STEPWISE ESTIMATION PROCEDURE  
+The BE ECTF model  methodology described in the following section is used to calculate ECT F 
+impact metrics as defined above. This methodology is specific to the BE ECTF model , and is 
+covered in five  sections below:  
+1. Step 1: Define Baseline Adoption  
+2. Step 2: Estimate Catalytic Effects on Adoption  
+3. Step 3a: Assess Green Premium Reduction  
+4. Step 3b: Assess Catalyzed Emissions Reduction  
+5. Step 3c: Attribute Impacts to Investors and Investments  
+STEP 1: DEFINE BASELINE ADOPTION  
+To calculate catalyzed emission reductions and reductions in the green premium, the model must 
+assess the difference in emission reductions achieved by a given technology under both a baseline 
+scenario and in th e presence of catalytic investment. In both the baseline and catalyzed cases , the 
+total size of the market for the given technology is held constant, but in the catalyzed case  that 
+market size is reached sooner. The main challenge in this approach is ensur ing that the baseline 
+definition is consistent across technologies and ensuring that the technology cost and performance 
+assumptions used to create the baseline are consistent with that being used to calculate the 
+catalyzed case . No currently available bas eline projections meet these criteria.  
+This is best illustrated by looking at the current International Energy Agency (IEA) World Energy 
+Outlook (WEO)6 and Energy Technology Perspective (ETP)7, the most commonly used global 
+technology baselines. Both re ly on two extreme scenarios: 1) the Stated Policies Scenario (SPS) 
+which includes those policies already announced by governments but nothing more; and 2) the 
+Sustainable Development Scenario (SDS) assumes governments put in place additional policies 
+sufficient to reduce global emissions enough to limit global temperature increases to less than 2° C. 
+Neither scenario works well as a baseline for the ECTF. In the SPS scenario, the total market size for many of the emerging climate technologies will be zero or  close to zero. In the SDS, large scale 
+deployment of DAC, SAF, Clean H2 and LD ES is achieved, assuming that the early -stage 
+investment Catalyst is anticipating has already occurred.  
+To address this issue, the ECTF requires custom baseline scenarios to ensure that the technology 
+cost and performance assumptions are consistent  across baseline and catalyzed scenarios. To do 
+so, Rhodium Group developed baseline scenarios using RHG -GEM,  an enhanced version of the 
+US Energy Information Administration’s World Energy Projection System (WEPS)
+8. WEPS is a fully 
+open- source model used by the IEA to produce the International Energy Outlook (IEO)9. A more  
+ 
+ 
+6 https://www.iea.org/reports/world- energy -outlook -2021   
+7 https://www.iea.org/topics/energy -technology -perspectives   
+8 World Energy Projection System 
+9 International Energy Outlook  
+
+--- Page 10 ---
+ 
+ 
+ 
+DRAFT: 04/2022 
+breakthroughenerg y.org   10 
+ detailed overview of Rhodium’s Global Energy Model and 2022 ECTF baselines  is available in the 
+Emerging Climate Technology Framework Technical Appendix . 
+Using RHG -GEM, Rhodium developed  global baseline projections for each ECT under a n 
+“expected”  policy scenario, producing baseline adoption curves for each ECT. This curve 
+represents the installed capacity as a function of time, indexed annually.  The baseline is modeled 
+through 2100 so it can be pulled forward in time in the following steps, as capacity beyond 2050 
+is pulled forward as a result of  catalytic investment . While t he unit for installed capacity varies by 
+technology , the output  through 2050 can be represented by the figure below:  
+ 
+Figure 4: Illustrative baseline adoption curve (installed capacity as a function of time)  
+STEP 2: ESTIMATE CATALYTIC EFFECTS ON ADOPTION  
+After the baseline has been defined, the second step in the model estimates the effect of the 
+specific catalytic investment on the baseline adoption curve.  
+Baseline  Curve Shift for Catalytic Investment  
+Based on the investment  scale and t iming , and current cost per unit of the ECT, the capacity uplift 
+“bought” by the catalytic capital can be used to accelerate the baseline case, in turn, generating 
+the catalyzed adoption curve. The model uses a simple time- based curve shift. The model first 
+solves for the capacity after investment, then identifies the future point in time at which that 
+cumulative capacity would otherwise have been achieved in the baseline case. That point  and all 
+subsequent points on the baseline curve are pulled forward by the same time increment , thus 
+accelerating the adoption curve while maintaining the adoption curve shape  in the final catalyzed 
+adoption curve.  
+This method assumes that any other changes reflected in the baseline adoption curve over the acceleration period will not have a large impact on the catalyzed rate of adoption. This will be 
+validated by comparing the “time- shifted” catalyzed curve against an independently calculated 
+catalyzed adoption curve generated using the same model used to generate the baseline while  
+incorporating the catalytic investment as an input before solving for equilibrium.  
+Outputs  
+The output is a catalyzed adoption curve for the specific ECT pathway and catalytic investment 
+amount and timing. This curve represents the installed capacity in the catalyzed case as a function of time, indexed annually. The unit for installed capacity varies by technology. The output is represented by the figure below (relative to the baseline case):  
+
+
+--- Page 11 ---
+ 
+ 
+ 
+DRAFT: 04/2022 
+breakthroughenerg y.org   11 
+  
+Figure 5: Illustrative catalyzed adoption case compared to baseline c ase demonstrated 
+accelerated adoption due to catalytic capital  
+STEP 3A: ASSESS GREEN PREMIUM REDUCTION  
+Based on the adoption curves for the baseline and catalyzed adoption curve, the green premium 
+reduction for each case can be calculated. 
+Create Learning Curves  
+To calculate the green premium, the learning curve must first be determined. The learning curve, 
+in this case, represents unit cost as a function of experience, and is estimated using a generic 
+single factor learning curve, as dictated by Wright’s Law ( depicted in the equation in figure 9 below ). 
+The learning curve implies that scaling up capacity drives costs down, underscoring the 
+fundamental logic of catalytic capital.  
+For many ECTs, technology learning rates are difficult to estimate empirically due to the lack of 
+historical deployment experience and data. ECT  learning curves  are therefore based on the best -
+available academic research, input from industry experts, and t echnological maturity. For a detailed 
+overview of learning curve  assumptions , see the Emerging Climate Technology Framework 
+Technical Appendix . Learning curves in terms of installed capacity are incorporated in RHG -GEM 
+baseline modeling, driving  cost declines as a function of deployment. Once the learning curve in 
+terms of installed capacity  is known, the costs  can be mapped against the adoption curves from 
+step 2 to translate into a cost curve as a function of time.  This is the annualized cost curve.  The 
+adoption curve demonstrates  a ramp- up over time in installed capacity, and the learning curve 
+demonstrates a decrease in unit cost because of increased production volume; the cost per unit 
+will fall over time due to these combined effects.  
+Calculate Green Premium Reduction 
+Using the annualized cost curves, it is possible to calculate the Green Premium Reduction.  The 
+first step in defining the GPR is defining the green premium, which is the difference between the cost of the ECT and the cost of the incumbent technology that it will replace. The cost of the 
+incumbent is calculated based on average market costs today , which is  based on the assumption 
+that the identity and cost of the incumbent technology does not change because of the ECT 
+investment, and as such, is held constant.  In cases where the ECT replaces more than one 
+technology, the cost of the  incumbent is defined as the average of the displaced technologies, 
+weighted by their deployment in the baseline case.   
+
+
+--- Page 12 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   12 
+ In cases where there is no incumbent technology being replaced, such as is t he case for DAC, a 
+cost target may be used . The cost goal for DAC  could  be interpreted as:  “The goal for direct air 
+capture is to reduce cost s to $100/ton as quickly as possible”. Like other Green Premium Reduction 
+methods, progress towards that goal can be represented as a percent decline.  
+This methodology is summarized below:  
+ 
+Figure 6: Green premium calculation methodology summary  
+Outputs  
+Leveraging the annualized cost curves and incumbent cost or cost target, the GPR is calculated. 
+The difference between the initial green premium and the future state green premium is referred to 
+as the Green Premium Reduction. Both the baseline and catalyzed case will drive Green Premiu m 
+Reduction, and as such, it is also possible to calculate a Catalyzed Green Premium Reduction, 
+which is the difference in GPR between the baseline and catalyzed case. This metric can be 
+expressed in multiple ways –  as either an absolute or percentage reduction compared to either the 
+baseline case or the initial green premium.  
+
+
+--- Page 13 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   13 
+  
+Figure 7: Illustrative green premium and green premium reduction metric calculation approach 
+based on learning curve as a function of time in baseline and catalyzed case. Green pre mium is 
+measured after the initial increase in investment has been absorbed by the market and fully 
+translated into capacity.  
+STEP 3B: ASSESS CATALYZED EMISSIONS REDUCTIONS  
+Based on the adoption curves for the baseline and catalyzed cases , it is possible to estimate the 
+additional future emissions reductions from the ECT driven by the catalytic investment , which is the 
+Catalyzed Emissions Reduction (CatER). The Green Premium R eduction is related, but not 
+required as an input to calculate CatER, but like the GPR calculation, each of the baseline and 
+catalyzed cases use the same methodology to calculate emissions reductions, and the difference 
+between the scenarios is CatER . 
+Char acterize emissions profiles  
+First, the emission  intensities of the incumbent and ECT must be characterized to calculate the 
+abatement factor , which is used to estimate emissions reductions.  The abatement factor is defined 
+as the per -unit carbon impact of one unit of ECT , calculated as the emissions of the incumbent 
+technology per functional unit minus the emissions of the ECT per functional unit.   Similar to the 
+approach for calculating the GPR, the weighted average emission intensities are used when there 
+is more than one incumbent. The emission intensities for ECTs and their incumbents are based on  
+RHG -GEM  baselines , which  capture direct emissions, indirect emissions from electricity and heat, 
+and any upstream fugitive emissions from fossil fuel  extraction, production, and transport.  These 
+are used to calculate a global average abatement factor for each year of the projection .  
+For an ECT replacing an incumbent, it is assumed that each unit of the ECT replaces a unit of the incumbent technology i n the market. For technologies that are carbon negative with no incumbent 
+(such as DAC), the calculated GHG impact of the technology would be negative and  can be used 
+directly as the carbon abatement factor.  As such, the carbon abatement factor is the mult iplier used  
+to calculate the proportionate relationship between installed capacity and emissions reductions 
+directly.  
+
+
+--- Page 14 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   14 
+  
+Estimate Emissions Reduction Potential  
+Calculating the emissions reduction potential in the baseline and catalyzed cases are 
+straightforward.  The carbon abatement factor is multiplied by the adoption curve for each case to 
+calculate annual emissions reductions. For this simple relation to hold,  it is assumed that there will 
+be no rebound effects. The methodology used to calculate the emissions reduction potential cases 
+is summarized  below:  
+  
+ 
+Figure 8: Summary of the Emissions Reduction Potential methodology  
+Calculate Catalyzed Emissions Redu ction 
+The CatER is calculated as the difference between the curves. A  discount rate is applied to account 
+for the fact that emissions avoided sooner have a greater impact on warming.  
+
+
+--- Page 15 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   15 
+  
+Figure 9: Summary of the Catalyzed Emissions R eduction methodology  which leverages the 
+outputs of the emissions reduction potential methodology to measure and discount the difference 
+between the baseline and catalyzed scenarios to calculate total CatER . 
+Output  
+The output CatER metric, though conceptually strai ghtforward, can be reported in multiple ways, 
+adding complexity. A single aggregate number can be reported, discounted based on the 
+methodology described above.  CatER can also be reported on an in- year basis, demonstrating 
+how emissions will have been reduced by 2050 due to the catalytic investment. This type of in- year 
+figure is critical to track progress against net -zero targets that require a specified amount of 
+emissions reduction (e.g. , the current  ~53 gigatons of annual CO 2e emissions).  
+
+
+--- Page 16 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   16 
+  
+Figure 10: Illustrative catalyzed emissions reduction methodology demonstrating the difference 
+between potential baseline and catalyzed emissions reductions  
+STEP 3C: ATTRIBUTE IMPACTS TO INVESTORS AND INVESTMENTS  
+As previously described, one of the defining features of ECTF is that metrics are calculated based 
+on the impact investments in a specific project have on the development and subsequent impact 
+of the ECT more broadly (beyond that specific project). Additionally, for a given ECT project, there 
+can be multiple types of funding provided by multiple investors. As such, for each investor to 
+measure  and report on their impact (vs. the impact of the project as a whole), it is necessary to 
+allocate measured GPR and CatER impacts based on the funding provided by each investor .  
+Estimating concessional capital  
+In some instances, investors may want to estimate the impact of purely “concessional capital” – 
+where the investor accepts more risk and likely lower returns compared to market -rate capit al due 
+to the nascent nature of the technologies in which they are investing.  There are four primary 
+types of concessional contributions investors can make to fund an ECT project –  grants, 
+concessional debt, concessional equity, and direct offtake agreemen ts. Across and within  these 
+four types of capital, there are varying degrees of “ concessionality ,” which can broadly be thought 
+of as the difference in expected return between market rate capital and concessional capital.  
+To value the impact of each type of concessional capital, this concept is applied to calculate “grant  
+equivalence”. Because grants are fully concessional (expecting no returns), they are treated as a 
+1:1 contribution in that each dollar spent is weighted as  a 100% contribution to the ECT project. 
+This stands in comparison to the other types of capital which expect some concessional  return , so 
+they are adjusted to a grant -equivalent amount. This approach is summarized in the table below : 
+Type of 
+capital  Application Example  Approach to determining grant -equivalence  
+
+
+--- Page 17 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   17 
+ Grant  Providing revenue 
+subsidies (contract for 
+differences); buying 
+down capital expense 
+costs Given that grants represent non -repayable funding, 
+the full amount of finance disbursed through upfront 
+grants is to be deemed as  fully concessional, 
+representing a grant element of 100%.  
+Concessional 
+Debt  Subsidized debt to 
+reduce capital 
+expense financing 
+costs and lower 
+overall project 
+weighted average cost 
+of capital  For concessional loans, the grant element is 
+calculated as the difference between net present 
+value of a market -priced loan and a loan offered at 
+softer terms. Loan instruments inherently only offer 
+partial concessionality, representing a grant element 
+of less than 100%.  
+Concessional 
+Equity  Subsidized equity to 
+reduce capital 
+expense financing 
+costs and lower 
+overall project 
+weighted average cost 
+of capital  Where offered equity comes at a cost that is lower 
+than a market -rate expected return, concessionality 
+is introduced. Concessional equity investments will 
+always  have a grant element below 100%, given 
+their ownership claim in the underlying asset.  
+Direct 
+Offtake 
+Agreement  Directly procuring fuel 
+or CO 2 at a set price 
+that enables 
+bankability.  The concessionality of direct offtake agreements 
+can be defined as the net present value of the 
+Green Premium,  which the offtaker commits to pay 
+to receive a certain service or product in the future. 
+The d ifference between the amount paid for the 
+ECT and the amount that would be paid for the 
+incumbent is considered the invest ment.  
+Table 3: Summary of types of concessional capital, example application, and approach to 
+determining grant -equivalence required for impact attribution  
+Concessional capital estimation o utputs  
+In instances where an investor wants to isolate the impact of purely concessional capital, it is 
+possible to allocate the total impact based on a share of impact metric, which is calculated as the 
+specific investment grant equivalent divided by the total grant equivalent for the project. Multiplying the share of impact by the total GPR or CatER  results in the allocated impact. The example below 
+demonstrates this approach for a project with total capital stack of $750M  upfront plus $250M 
+committed through of ftake agreements,  which generates 500k tCO
+2 CatER. An identical approach 
+could be used for GPR.  
+
+--- Page 18 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   18 
+  
+Figure 1 1: Example illustrative impact attribution calculations  for a project with total capital stack 
+of $750M upfront plus $250M committed through offtake agreements, which generates 500k tCO 2 
+CatER . Detailed calculations can be found in Technical  Appendix Step 3c . 
+ 
+ 
+Figure 1 2: Investment amount and CatER allocation for illustrative attribution example, 
+demonstrating the impact of varying degrees of concessionality  for each type of capital  
+ 
+ 
+
+
+--- Page 19 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   19 
+ REPORTING  
+Investors should be conservative with the claims they make on the impact of catalytic investments 
+in ECTs, as they differ from more familiar types of climate action that resu lt in direct  emissions 
+reductions. ECT investments are considered climate contributions, defined as “the financial support 
+provided by a company to support climate change action beyond the company’s own value chain, 
+without claiming ownership of the emissi on reduction outcomes and without subtracting associated 
+reductions from their own GHG inventory or net -zero target.”10 Companies should be clear when 
+reporting that CatERs are not direct emissions reductions, and should also be transparent about 
+assumptions and limitations to this forward- looking methodology as outlined in this document.  
+SUMMARY OF ASSUMPTIONS  
+The BE ECTF model methodology makes several  overarching assumptions to simplify the 
+approach and calculations.  Assumptions will be regularly evaluated and updated each year with 
+input from stakeholders and improvements in empirical data:  
+Incumbent technology: Most low -carbon emerging climate technologies will displace fossil fuel -
+based incumbents. The model specifically identifies these fossil -fuel b ased incumbents. The 
+incumbent technology that will be replaced by SAF, for example, is kerosene- based fuel. When the 
+emerging climate technology has achieved the same cost per unit as the incumbent technology, 
+the emerging climate technology has reached c ost parity.  
+Market Efficiency:  In general, it is assumed that the market is efficiently allocating capital to 
+available projects that can deliver market -rate returns. In turn, it is assumed that opportunities 
+available for catalytic investment may provide lower returns  and/or be riskier than projects funded 
+by market -rate capital.  
+Policy: To construct ECT deployment baselines through 2100, the model must incorporate some 
+assumptions about how policy is likely to evolve over the course of multiple decades into the future. 
+Net zero scenarios are not useful for this purpose because they assume all the ECT investment 
+necessary to achieve Net Zero materializes, making the ECTF tool (which is meant to incentivize 
+this investment at an early stage) moot. Policies w ill certainly evolve beyond current policy adopted 
+or announced to date, but there is little certainty about the form or level of ambition policies may 
+take in 2040, 2050 and beyond. For simplicity and transparency, Rhodium Group models  ECT 
+baselines under an “expected” future policy scenario based on the most straightforward proxy for 
+climate policy –  a carbon price.  For more detail see Rhodium’s RHG -GEM  technical appendix [link].  
+Treatment of Uncertainty : Given the current degree of uncerta inty in global energy markets, 
+technology, and consumer behavior, it’s important to understand the global energy system outlook 
+under a range of uncertain future conditions. The ECTF  parameterizes  four key sources of 
+uncertainty  in both the baseline and catalyzed cases: 1) economic growth; 2) ECT learning rates; 
+3) fossil fuel market dynamics; and 4) renewable energy technology cost and performance.  
+ 
+ 
+10 https://newclimate.org/wp-content/uploads/2022/02/NewClimate_CCRM2022_Methodoloy.pdf   
+
+--- Page 20 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   20 
+ Emissions Reduction Potential : The model uses abatement factors derived from RHG -GEM 
+baselines to estimate t he future emissions reduction potential due to technology displacement of 
+the incumbent fossil fuel -based technology by the clean technology.   
+MODEL IMPROVEMENT OVER TIME  
+As with all existing impact metric frameworks, inputs and assumptions used in the current ECTF 
+model will be updated over time as new information becomes available. In addition, the model can 
+be expanded to include additional technologies and technology pathways as they become 
+available. Below we outline key improvements planned for the E CTF.  
+Update d Deployment Baselines  
+Each year Rhodium will update ECT baselines under expected policy using RHG -GEM . The annual 
+update will reflect all relevant updates to inputs and assumptions across the model, including 
+developments in climate and energy policy across all regions, updated energy market outlooks, 
+and any new information about ECT and incumbent technologies . 
+Incorporate Empirical Data on ECT Learning  
+One of the key challenges is predicting the forward- looking  impact of catalytic capital on the ECT 
+learning rate. In the current model, this  is based on a set of assumptions as outlined above due to 
+a lack of empirical data  for these specific technologies . However, as investments  ramp up, it will 
+be possible to use the generated empirical data (the backwards looking effect of a known specific 
+investment on the actual ECT unit cost) to validate and update assumptions such as learning rate 
+as needed.  In turn, we expect that over time, the model can be better understood and updated for 
+the specific observed effects of investment on each ECT pathway.  
+  
+
+--- Page 21 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   21 
+ Technical Appendix  
+GOVERNING EQUATIONS AND ASSUMPTIONS  
+The following section provides additional detai ls on the model construction, assumptions, and 
+inputs. The inputs numbers correspond to the table of inputs in the next section of the technical 
+appendix.  
+Step 1: Define Baseline Adoption  
+RHG -GEM  Model Baseline:  
+Description  Assumptions  Inputs  
+Develop a baseline for diffusion of a 
+given technology into a given market for the technology globally. This baseline is 
+established using Rhodium’s Global 
+Energy Model . The baseline captures a 
+range of future diffusion pathways under key sources of techno logy and market 
+uncertainty.  Technologies 
+compete for 
+market share 
+based on relative 
+cost and 
+performance, 
+policy, consumer 
+behavior, and 
+infrastructure constraints.  (1) Current cost per unit of 
+ECT 
+(2) Current ECT capacity  
+(3) Learning coefficient  
+(4) Drivers of uncertainty (e.g. expected climate 
+policy, energy markets, 
+etc.) 
+ 
+Step 2: Estimate Catalytic Effects on Adoption  
+Description  Assumptions  Inputs  
+Evaluate impacts of accelerated 
+investment on market uptake. 
+Accelerated investment is translated into 
+an increase in capacity. This increase in 
+capacity shifts the market diffusion 
+curve so adoption is accelerated 
+compared to a BAU scenario.   
+   Total time it takes 
+for the increased 
+investment to be 
+absorbed by the 
+market.  
+ Shap e of 
+baseline curve is 
+maintained in a scenario with 
+catalytic capital  
+  (10) Baseline 
+Adoption Curve 
+ (7) Current  cost per 
+unit of ECT at the 
+time(s) of 
+investment.  
+ (8) Investment Timing and Amounts  
+ (9) Effective Investment  
+ 
+
+--- Page 22 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   22 
+ Step 3a: Assess Green Premium Reduction 
+Description  Assumptions  Inputs  
+Build learning curves.  Per unit 
+cost declines as production of 
+clean technology scales up. 
+Initial green premium is 
+established as current unit cost 
+of clean technology minus the 
+cost of the fossil -fuel based 
+incumbent technology.  
+We use single factor learning curves where the governing 
+equation is  
+ 
+Where C is cost, and a  is the 
+learning curve equation 
+constant and is calculated as 
+first unit cost, solved with 
+known pairs of costs and 
+quantity. λ is learning rate.   Cost decline is driven 
+by capacity scale up.  
+ Policies (cost of carbon)  
+ Identity and cost of 
+incumbent technology 
+does not change 
+because of ECT development   (13) Per unit cost of 
+carbon  
+ (7) Current cost per unit 
+of ECT  
+ (4) Learning Coefficient  
+ (14) Per Unit capital 
+expense of ECT  
+ (15) Per Unit operating 
+expense of ECT 
+ (19) LCA GHG Intensity of Incumbent Tech  
+ (20) LCA GHG Intensity of ECT  
+ (10) Baseline Adoption Curve for ECT  
+ (11) Catalyzed Adoption Curve for ECT  
+Evaluate impacts of accelerated 
+investment on green premium. 
+Learning curves are used to 
+relate cumulative number of 
+units produced to cost declines. 
+Accelerated investment drives 
+the cost point of the emerging 
+climate technology down the 
+cost curve, which  reduces the 
+green premium.   Cost of incumbent tech 
+is not affected by 
+investment in the new 
+tech 
+ Cost decline is a 
+function of capacity 
+scale -up, as influenced 
+by investment   Inputs from previous step above  
+ (8) Investment timing 
+(year of investment),  
+and amount of 
+investment in $USD.  
+ 
+
+
+--- Page 23 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   23 
+  
+Figure A1: Learning curve showing technology cost plotted vs. cumulative production with 
+learning rate 20% (from BE/CDP ECTF report).  
+Step 3b: Assess Catalyzed Emissions Reduction 
+Description  Assumptions  Inputs  
+Estimate the emissions 
+reductions potential for the 
+technology as a function of 
+time..  
+When a clean technolog y 
+displaces  an incumbent 
+technolog y, it reduc es GHG 
+emissions proportionately to a  
+carbon abatement factor.  
+  Clean tech displaces 
+incumbent  tech 
+ No rebound effects  
+   (19) GHG Intensity of Incumbent Tech  
+ (20) GHG Intensity of ECT 
+ (10) Baseline Adoption Curve for ECT  
+ 
+Estimate the emissions 
+reductions potential profile of 
+the new technology with 
+accelerated investment. Next 
+estimate the additional, or  
+catalyzed, emissions reductions 
+that are avoided because of 
+accelerated investment and 
+market adoption.  
+These catalyzed emissions 
+reductions occur earlier in time 
+compared to the emissions  Investment t ranslates 
+into capacity, which 
+accelerates market 
+deployment  
+ Earlier market 
+deployment shifts 
+emissions reductions 
+potential earlier for the 
+clean tech   Inputs from previous step 
+ (11) Catalyzed Adoption 
+Curve for ECT  
+
+
+--- Page 24 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   24 
+ reductions that will occur in the 
+baseline scenario.  
+Calculate catalyzed emissions 
+reductions. The final catalyzed 
+emissions reductions are 
+calculated by finding the 
+difference (in area under the 
+curve) between emissions 
+reduction potential with and 
+without the accelerated 
+investment. Emissions avoided are discounted progressively 
+each y ear after the investment 
+year, to reflect that earlier 
+emissions avoided are more 
+valuable. This is calculated as:  
+Emissions x (1 -0.03)^(years)  
+Where years is defined as years 
+after the start year, 2022.   Emissions reductions 
+occurring earlier are 
+more valuable that 
+emissions reductions 
+occurring later.  
+ A discount rate of 3% is 
+applied each year, 
+meaning that in 2022 
+emissions avoided are 
+valued at 100%, in 2023 
+they are valued at 97%, 
+in 2024 they are valued 
+at 94%, in 2025 at 91%, 
+and the patterns 
+continues until 
+emissions avoided in 
+2050 are valued at 42%.   (22) Baseline Emissions 
+Reduction potential  
+ (23) Catalyzed Emissions Reduction 
+potential  
+ 
+Step 3c: Attribute Impacts to Investors and Investments  
+Description  Assumptions  Inputs  
+Impact attribution. The 
+concept of “grant 
+equivalence” is applied to 
+capture the degree of 
+concessionality of ECT 
+investments in a project’s 
+capital stack and attribute 
+project -level impact to each 
+investor accordingly.  Impact is attributed to an 
+investor  based on the amount 
+of money invested in a 
+technology and the 
+concessionality  of that 
+investment compared to a 
+market -rate investment   Catalyzed Emissions 
+Reductions  
+ Green Premium 
+Reduction  
+ (8) Investment Timing 
+and Amounts  
+ (24) Impact A ttribution 
+Rates for Project  
+ 
+Example Impact Attribut ion calculations : 
+Grant methodology  Example Application  
+
+--- Page 25 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   25 
+ 𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮  𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮 =𝟏𝟏 
+ 
+𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮 =𝑽𝑽𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆 𝒐𝒐𝒐𝒐 𝒈𝒈𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮  
+ 
+𝑰𝑰𝑮𝑮𝒆𝒆𝒆𝒆𝑰𝑰𝑮𝑮𝒐𝒐𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆  𝒆𝒆𝒆𝒆𝒊𝒊𝑮𝑮𝒊𝒊𝑮𝑮
+=𝑽𝑽𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆 𝒐𝒐𝒐𝒐 𝒈𝒈𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮
+∑𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮𝑰𝑰
+×𝑷𝑷𝑮𝑮𝒐𝒐𝑷𝑷𝒆𝒆𝒊𝒊𝑮𝑮  𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆  𝒆𝒆𝒆𝒆𝒊𝒊𝑮𝑮𝒊𝒊𝑮𝑮 
+ 𝑪𝑪𝑮𝑮𝑮𝑮𝑪𝑪𝑪𝑪𝒈𝒈𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 =$250 ,000
+$458 ,886×500 ,000  𝑡𝑡𝐶𝐶𝐶𝐶2
+=𝟐𝟐𝟐𝟐𝟐𝟐,𝟑𝟑𝟑𝟑𝟑𝟑 𝑮𝑮𝑪𝑪𝑪𝑪𝟐𝟐 
+ 
+ 
+Concessional debt methodology  Examp le Application  
+𝑩𝑩𝒆𝒆𝑮𝑮𝒊𝒊𝑩𝑩𝒆𝒆𝑮𝑮𝑮𝑮𝑩𝑩 𝒊𝒊𝒐𝒐𝑰𝑰𝑮𝑮  𝒐𝒐𝒐𝒐 𝒅𝒅𝒆𝒆𝒅𝒅𝑮𝑮
+= 𝑪𝑪𝒆𝒆𝑰𝑰𝑩𝑩 𝒐𝒐𝑮𝑮𝒆𝒆𝒆𝒆  𝑮𝑮𝑮𝑮𝑮𝑮𝒆𝒆  
++ 𝑮𝑮𝒆𝒆𝑮𝑮𝒆𝒆𝑮𝑮𝒆𝒆𝒊𝒊  𝒅𝒅𝒆𝒆𝒅𝒅𝑮𝑮 𝑮𝑮𝒆𝒆𝑰𝑰𝑩𝑩 𝒊𝒊𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆  
++ 𝑷𝑷𝑮𝑮𝒐𝒐𝑷𝑷𝒆𝒆𝒊𝒊𝑮𝑮  𝒅𝒅𝒆𝒆𝒅𝒅𝑮𝑮 𝑮𝑮𝒆𝒆𝑰𝑰𝑩𝑩 𝒊𝒊𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆  
+ 
+Where:  
+• Risk -free rate = Yield on a 10 -year US 
+government bond  
+• Generic debt risk premium = Yield on a 
+10-year corporate bond with a credit 
+rating equal to the credit rating of the risk -free asset, less the risk- free rate 
+• Project debt risk premium = Weighted average cost of debt capital provided to 
+the project less the generic debt risk  
+premium and the risk -free premium  
+ 
+𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮
+=𝑵𝑵𝑷𝑷𝑽𝑽
+𝒅𝒅𝒆𝒆𝑮𝑮𝒊𝒊𝑩𝑩𝒆𝒆𝑮𝑮𝑮𝑮𝑩𝑩  𝒆𝒆𝒐𝒐𝑮𝑮𝑮𝑮−𝑵𝑵𝑷𝑷𝑽𝑽𝒊𝒊𝒐𝒐𝑮𝑮𝒊𝒊𝒆𝒆𝑰𝑰𝑰𝑰𝒆𝒆𝒐𝒐𝑮𝑮𝑮𝑮𝒆𝒆  𝒆𝒆𝑮𝑮𝒐𝒐𝑮𝑮
+𝑷𝑷𝑽𝑽𝒅𝒅𝒆𝒆𝒅𝒅𝑮𝑮 
+ 
+𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮
+=𝑽𝑽𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆 𝒐𝒐𝒐𝒐 𝒆𝒆𝑮𝑮𝒆𝒆𝒆𝒆𝑰𝑰𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮
+×𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮  
+ 
+𝑰𝑰𝑮𝑮𝒆𝒆𝒆𝒆𝑰𝑰𝑮𝑮𝒐𝒐𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆  𝒆𝒆𝒆𝒆𝒊𝒊𝑮𝑮𝒊𝒊𝑮𝑮
+=𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮 𝒅𝒅𝒆𝒆𝒅𝒅𝑮𝑮
+∑𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮𝑰𝑰
+×𝑷𝑷𝑮𝑮𝒐𝒐𝑷𝑷𝒆𝒆𝒊𝒊𝑮𝑮  𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆  𝒆𝒆𝒆𝒆𝒊𝒊𝑮𝑮𝒊𝒊𝑮𝑮 
+ 𝑩𝑩𝒆𝒆𝑮𝑮𝒊𝒊𝑩𝑩𝒆𝒆𝑮𝑮𝑮𝑮𝑩𝑩 𝒊𝒊𝒐𝒐𝑰𝑰𝑮𝑮  𝒐𝒐𝒐𝒐 𝒅𝒅𝒆𝒆𝒅𝒅𝑮𝑮
+= 1.46% + 1.26% +2.49%
+=𝟓𝟓.𝟐𝟐𝟏𝟏%  
+ 
+Where:  
+• Risk -free rate = 1.46%  
+• Generic debt risk premium = 1.26%  
+• Project debt risk premium = 2.49%  
+ 
+𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮
+=1
+− �2.5%
+5.21%�
+×�1− 1
+(1+5.21% )(5−1)− 1
+(1+5.21% )10
+5.21% ×�10−(5−1)��
+=𝟎𝟎.𝟏𝟏𝟏𝟏𝟑𝟑𝟏𝟏  
+ 
+Where:  
+• Payments per year = 1  
+• Project cost of debt = 2.5%  
+• Maturity = 10 years  
+• Grace period = 5 years  
+• Interval period = 4 years  
+ 
+𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮 =$250 ,000  ×0.1643
+=$𝟏𝟏𝟎𝟎,𝟖𝟖𝟓𝟓𝟐𝟐 
+ 
+𝑪𝑪𝑮𝑮𝑮𝑮𝑪𝑪𝑪𝑪𝒅𝒅𝒆𝒆𝒅𝒅𝑮𝑮=$40,857
+$458 ,886×500 ,000  𝑡𝑡𝐶𝐶𝐶𝐶2
+=𝟏𝟏𝟏𝟏,𝟓𝟓𝟏𝟏𝟐𝟐  𝑮𝑮𝑪𝑪𝑪𝑪𝟐𝟐 
+
+--- Page 26 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   26 
+  
+ 
+Concessional equity methodology  Example Application  
+𝑩𝑩𝒆𝒆𝑮𝑮𝒊𝒊𝑩𝑩𝒆𝒆𝑮𝑮𝑮𝑮𝑩𝑩 𝒊𝒊𝒐𝒐𝑰𝑰𝑮𝑮  𝒐𝒐𝒐𝒐 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆
+= 𝑪𝑪𝒆𝒆𝑰𝑰𝑩𝑩 𝒐𝒐𝑮𝑮𝒆𝒆𝒆𝒆  𝑮𝑮𝑮𝑮𝑮𝑮𝒆𝒆  
++ 𝑮𝑮𝒆𝒆𝑮𝑮𝒆𝒆𝑮𝑮𝒆𝒆𝒊𝒊  𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆 𝑮𝑮𝒆𝒆𝑰𝑰𝑩𝑩 𝒊𝒊𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆  
++ 𝑷𝑷𝑮𝑮𝒐𝒐𝑷𝑷𝒆𝒆𝒊𝒊𝑮𝑮  𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆 𝑮𝑮𝒆𝒆𝑰𝑰𝑩𝑩 𝒊𝒊𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆  
+ 
+Where:  
+• Risk -free rate = Yield on a 10 -year US 
+government bond  
+• Generic equity risk premium = 
+Historical equity risk premium 
+observed in the US stock market over 
+the past 10 years  
+• Project equity risk premium = 
+Weighted average cost of equity capital 
+provided to the project less the generic 
+equity risk premium and the r isk-free 
+premium  
+ 
+𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮
+=𝑵𝑵𝑷𝑷𝑽𝑽𝒅𝒅𝒆𝒆𝑮𝑮𝒊𝒊𝑩𝑩𝒆𝒆𝑮𝑮𝑮𝑮𝑩𝑩  𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆−𝑵𝑵𝑷𝑷𝑽𝑽𝒊𝒊𝒐𝒐𝑮𝑮𝒊𝒊𝒆𝒆𝑰𝑰𝑰𝑰𝒆𝒆𝒐𝒐𝑮𝑮𝑮𝑮𝒆𝒆  𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆
+𝑷𝑷𝑽𝑽𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆 
+ 
+𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮
+=𝑽𝑽𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆 𝒐𝒐𝒐𝒐 𝒆𝒆𝑮𝑮𝒆𝒆𝒆𝒆𝑰𝑰𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮
+×𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮  
+ 
+𝑰𝑰𝑮𝑮𝒆𝒆𝒆𝒆𝑰𝑰𝑮𝑮𝒐𝒐𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆  𝒆𝒆𝒆𝒆𝒊𝒊𝑮𝑮𝒊𝒊𝑮𝑮
+=𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆
+∑𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮𝑰𝑰
+×𝑷𝑷𝑮𝑮𝒐𝒐𝑷𝑷𝒆𝒆𝒊𝒊𝑮𝑮  𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆  𝒆𝒆𝒆𝒆𝒊𝒊𝑮𝑮𝒊𝒊𝑮𝑮 
+ 𝑩𝑩𝒆𝒆𝑮𝑮𝒊𝒊𝑩𝑩𝒆𝒆𝑮𝑮𝑮𝑮𝑩𝑩 𝒊𝒊𝒐𝒐𝑰𝑰𝑮𝑮  𝒐𝒐𝒐𝒐 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆
+= 1.46% + 5.53% +2.41%
+=𝟑𝟑.𝟓𝟓% 
+ 
+Where:  
+• Risk -free rate = 1.46%  
+• Generic equity risk premium = 5.53%  
+• Project equity risk premium = 2.51%  
+ 
+𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮
+=∑$39,817
+(1+9.5% )𝑡𝑡10
+𝑡𝑡=1 −∑$39,817
+(1+5%)𝑡𝑡10𝑡𝑡=1
+$250 ,000
+=$54,717−$0
+$250 ,000=𝟎𝟎.𝟐𝟐𝟏𝟏𝟖𝟖𝟑𝟑 
+ 
+Where:  
+• Project cost of equity = 5.0%  
+• PV of equity investment = $250,000  
+• Years = 10  
+• Annual payment = $39,817  
+ 
+𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮 =$250 ,000  ×0.2189
+=$𝟓𝟓𝟏𝟏,𝟐𝟐𝟏𝟏𝟐𝟐 
+ 
+𝑪𝑪𝑮𝑮𝑮𝑮𝑪𝑪𝑪𝑪𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆=$54,717
+$458 ,886×500 ,000  𝑡𝑡𝐶𝐶𝐶𝐶2
+=𝟓𝟓𝟑𝟑,𝟏𝟏𝟏𝟏𝟑𝟑 𝑮𝑮𝑪𝑪𝑪𝑪𝟐𝟐 
+ 
+ 
+Offtake agreement methodology  Example Application  
+𝑪𝑪𝑬𝑬𝒊𝒊𝒆𝒆𝒊𝒊𝑮𝑮𝒆𝒆𝒅𝒅  𝑮𝑮𝑮𝑮𝑮𝑮𝒆𝒆𝑮𝑮𝒆𝒆  𝒈𝒈𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮  𝒊𝒊𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆  𝒊𝒊𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮
+= (𝑻𝑻𝒐𝒐𝑮𝑮𝑮𝑮𝒆𝒆  𝒆𝒆𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆 𝒐𝒐𝒐𝒐 𝒐𝒐𝒐𝒐𝒐𝒐𝑮𝑮𝑮𝑮𝑩𝑩𝒆𝒆  𝑮𝑮𝒈𝒈𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮 ×
+𝑪𝑪𝑬𝑬𝒊𝒊𝒆𝒆𝒊𝒊𝑮𝑮𝒆𝒆𝒅𝒅  𝒈𝒈𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮  𝒊𝒊𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆 %)
+𝑫𝑫𝒆𝒆𝑮𝑮𝑮𝑮𝑮𝑮𝒆𝒆𝒐𝒐𝑮𝑮  𝒐𝒐𝒐𝒐 𝒊𝒊𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮𝑰𝑰  𝑪𝑪𝑬𝑬𝒊𝒊𝒆𝒆𝒊𝒊𝑮𝑮𝒆𝒆𝒅𝒅  𝑮𝑮𝑮𝑮𝑮𝑮𝒆𝒆𝑮𝑮𝒆𝒆  𝒈𝒈𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮  𝒊𝒊𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆  𝒊𝒊𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮
+= $250 ,000 ×50%
+5 𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦=$25,000 /𝑦𝑦𝑦𝑦𝑦𝑦𝑦𝑦   
+ 
+
+--- Page 27 ---
+ 
+ 
+ 
+DRAFT: 04/2022  
+breakthroughenerg y.org   27 
+  
+𝑾𝑾𝑾𝑾𝑪𝑪𝑪𝑪
+=𝑾𝑾𝒆𝒆𝒆𝒆𝒈𝒈𝑩𝑩𝑮𝑮𝒆𝒆𝒅𝒅  𝒊𝒊𝒐𝒐𝑰𝑰𝑮𝑮  𝒐𝒐𝒐𝒐 𝒈𝒈𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮
++𝑾𝑾𝒆𝒆𝒆𝒆𝒈𝒈𝑩𝑩𝑮𝑮𝒆𝒆𝒅𝒅  𝒊𝒊𝒐𝒐𝑰𝑰𝑮𝑮  𝒐𝒐𝒐𝒐 𝒊𝒊𝒐𝒐𝑮𝑮𝒊𝒊𝒆𝒆𝑰𝑰𝑰𝑰𝒆𝒆𝒐𝒐𝑮𝑮𝑮𝑮𝒆𝒆  𝒅𝒅𝒆𝒆𝒅𝒅𝑮𝑮
++𝑾𝑾𝒆𝒆𝒆𝒆𝒈𝒈𝑩𝑩𝑮𝑮𝒆𝒆𝒅𝒅  𝒊𝒊𝒐𝒐𝑰𝑰𝑮𝑮  𝒐𝒐𝒐𝒐 𝒊𝒊𝒐𝒐𝑮𝑮𝒊𝒊𝒆𝒆𝑰𝑰𝑰𝑰𝒆𝒆𝒐𝒐𝑮𝑮𝑮𝑮𝒆𝒆  𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆 
+ 
+𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮
+=𝑵𝑵𝑷𝑷𝑽𝑽𝒆𝒆𝑬𝑬𝒊𝒊𝒆𝒆𝒊𝒊𝑮𝑮𝒆𝒆𝒅𝒅 𝒈𝒈𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮  𝒊𝒊𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆  𝒊𝒊𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮𝑰𝑰  
+ 
+Where:  
+• Expected green premium = 50% of 
+total cost 
+• Premiums are paid in equal 
+installments over 5 years, starting in 
+year 6  
+• Discount rate for premiums = Weighted average cost of total capital 
+provided to the project 
+ 
+𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮
+=𝑽𝑽𝑮𝑮𝒆𝒆𝒆𝒆𝒆𝒆 𝒐𝒐𝒐𝒐 𝒆𝒆𝑮𝑮𝒆𝒆𝒆𝒆𝑰𝑰𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮
+×𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮  
+ 
+𝑰𝑰𝑮𝑮𝒆𝒆𝒆𝒆𝑰𝑰𝑮𝑮𝒐𝒐𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆  𝒆𝒆𝒆𝒆𝒊𝒊𝑮𝑮𝒊𝒊𝑮𝑮
+=𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮 𝒐𝒐𝒐𝒐𝒐𝒐𝑮𝑮𝑮𝑮𝑩𝑩𝒆𝒆
+∑𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮𝑰𝑰
+×𝑷𝑷𝑮𝑮𝒐𝒐𝑷𝑷𝒆𝒆𝒊𝒊𝑮𝑮  𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆  𝒆𝒆𝒆𝒆𝒊𝒊𝑮𝑮𝒊𝒊𝑮𝑮 
+ 𝑾𝑾𝑾𝑾𝑪𝑪𝑪𝑪=$250 ,000
+$750 ,000×0% +$250 ,000
+$750 ,000×2.5%
++$250 ,000
+$750 ,000×5% =𝟐𝟐.𝟓𝟓% 
+ 
+𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮 =∑$25,000
+(1+2.5%)𝑡𝑡10
+𝑡𝑡=6
+$250 ,000
+=$113 ,313
+$250 ,000=𝟎𝟎.𝟏𝟏𝟓𝟓𝟑𝟑𝟑𝟑  
+ 
+𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮𝑮 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝑮𝑮𝒆𝒆𝒆𝒆𝑮𝑮𝑮𝑮 =$250 ,000  ×0.4533
+=$𝟏𝟏𝟏𝟏𝟑𝟑,𝟑𝟑𝟏𝟏𝟑𝟑 
+ 
+𝑪𝑪𝑮𝑮𝑮𝑮𝑪𝑪𝑪𝑪𝒐𝒐𝒐𝒐𝒐𝒐𝑮𝑮𝑮𝑮𝑩𝑩𝒆𝒆 =$113 ,313
+$458 ,886×500 ,000  𝑡𝑡𝐶𝐶𝐶𝐶2
+=𝟏𝟏𝟐𝟐𝟑𝟑,𝟏𝟏𝟏𝟏𝟓𝟓 𝑮𝑮𝑪𝑪𝑪𝑪𝟐𝟐 
+ 
+ 
+ 
